@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Fly
+comment0.text=\r\n\r\n\ Have\ the\ fly\ count\ how\ many\ Food\ object\ it\ eats\ (2\ marks)\r\n\ Every\ time\ the\ fly\ eats\ all\ 10\ Food\ objects,\ add\ 10\ more\ Food\r\n\ objects\ to\ the\ world\ and\ continue\ playing.\ (3\ marks)\r\n\ \r\n
+comment1.params=
+comment1.target=Fly()
+comment2.params=start\ end
+comment2.target=int\ getRandomNumber(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkForKeys()
+comment5.params=
+comment5.target=void\ checkForFood()
+numComments=6
